@@ -14,7 +14,7 @@ JHTAlertController is a replacement for the stock UIAlertController. With it, yo
   s.source           = { :git => 'https://github.com/jjessel/JHTAlertController.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/jcubedapps'
 
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '12.0'
 
   s.source_files = 'Source/*'
 
